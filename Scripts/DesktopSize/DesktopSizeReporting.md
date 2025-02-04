@@ -29,7 +29,7 @@ Remember to edit the variable amReportLocation to reflect the correct network pa
 
 Network access is recommended; an offline report will be generated if it fails.
 
-Clients will only record this infomration once. If you want to run it periodically, rename the existing report so a new one is generated.
+Clients will only record this information once. If you want to run it periodically, rename the existing report so a new one is generated.
 
 
 This script is best deployed with a client manager such as CCM. Stagger slightly to avoid file lock conflicts.
